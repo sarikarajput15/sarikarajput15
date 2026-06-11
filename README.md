@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/sarikarajput15/sarikarajput15/master/intro.gif" alt="👋 Hi there! I'm Sarika Rajput sarika15rajput@gmail.com" title="👋 Hi there! I'm Sarika Rajput"/>](https://sarika-rajput-portfolio.vercel.app)
 
-<div align="center">
+<div align="left">
 
 <picture>
   <!-- Dark mode snake -->
