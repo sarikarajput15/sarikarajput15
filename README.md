@@ -15,7 +15,7 @@
 
 </div>
 
-## Tech Stack
+## Tech Stack I code with
 
 <div align="center">
 
