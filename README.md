@@ -1,5 +1,20 @@
 [<img src="https://raw.githubusercontent.com/sarikarajput15/sarikarajput15/master/intro.gif" alt="👋 Hi there! I'm Sarika Rajput sarika15rajput@gmail.com" title="👋 Hi there! I'm Sarika Rajput"/>](https://sarika-rajput-portfolio.vercel.app)
 
+<div align="center">
+
+<picture>
+  <!-- Dark mode snake -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarikarajput15/sarikarajput15/output/github-contribution-grid-snake-dark.svg" />
+
+  <!-- Light mode snake -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarikarajput15/sarikarajput15/output/github-contribution-grid-snake.svg" />
+
+  <!-- Fallback -->
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sarikarajput15/sarikarajput15/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Aspiring 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Electronics and 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 Engineering, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸6
